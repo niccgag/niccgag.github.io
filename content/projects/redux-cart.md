@@ -7,7 +7,7 @@ longDescription: A simple little app to showcase using Redux and React. You can 
 tags: ["react", "redux"]
 githubUrl: https://github.com/niccgag/redux-cart
 liveDemoUrl: https://niccgag.github.io/redux-cart
-timestamp: 2025-02-24T02:39:03+00:00
+timestamp: 2026-03-09T18:58:18Z
 featured: true
 ---
 

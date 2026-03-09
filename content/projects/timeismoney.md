@@ -6,7 +6,7 @@ description: A WoW auction house scanner
 longDescription: A auction house scanner for World of Warcraft
 tags: ["dotnet", "c#", "sqlite"]
 githubUrl: https://github.com/niccgag/TimeIsMoney
-timestamp: 2026-03-03 20:58
+timestamp: 2026-03-09T18:58:18Z 
 featured: false
 ---
 
